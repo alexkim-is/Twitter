@@ -1,0 +1,14 @@
+span {
+  padding: 30px;
+  margin:30px;
+  text-align: center;
+}
+
+div{
+  margin: 50px 50px 50px 50px;
+}
+
+p.aa{
+  display:inline-block;
+  width: 220px;
+}
